@@ -1,4 +1,4 @@
-# To-Do-Liste
+# Einfache To-Do-Liste
 
 * [ ] Einkaufen
 * [ ] Mail an XYZ schreiben
