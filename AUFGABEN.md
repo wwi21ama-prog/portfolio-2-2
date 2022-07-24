@@ -14,7 +14,7 @@ Erstellen Sie eine Dokumentation zu Ihrem Programm.
 * Erklären Sie Ihr Umsetzungskonzept und verdeutlichen Sie die Architektur mit geeigneten
 Grafiken.
 * Begründen Sie die Wahl Ihrer Algorithmen und Datenstrukturen.
-* Gehen Sie auch auf Komplexitäts- und Performanceaspekte ein.s
+* Gehen Sie auch auf Komplexitäts- und Performanceaspekte ein.
 
 ## Fortgeschrittene Aufgaben
 
