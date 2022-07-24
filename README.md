@@ -4,6 +4,10 @@ Bei diesm Projekt geht es darum, ein Projektmanagement-Konzept umzusetzen,
 bei dem die Projekte, Aufgaben, Deadlines etc. in einer Art Wiki mittels
 Markdown-Dateien verwaltet werden.
 
+In dieser Datei wird die Projektidee beschrieben.
+Eine konkrete Aufgabenstellung gibt es in der Datei [AUFGABEN.md](AUFGABEN.md).
+Die Rahmenbedingungen zur Prüfung stehen in [PRUEFUNG.md](PRUEFUNG.md)
+
 Ziel ist es, ein einfaches Projektmanagement-System zu haben, das ohne Datenbank
 auskommt und menschenlesbar in Textdateien gespeichert wird.
 Zunächst folgt eine kurze Beschreibung des Datenformats.
