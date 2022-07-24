@@ -44,3 +44,7 @@ Beispiele:
 * Auflistung aller unfertigen Aufgaben
 * Auflistung aller Aufgaben, die bis zu einem bestimmten Datum erledigt werden müssen
 * Filtern der Teilprojekte/Aufgaben nach Tags
+
+## Beispielprojekte
+
+Im Ordner [Beispiele](Beispiele/README.md) sind verschiedene Projekte vorgegeben, die das Datenformat demonstieren sollen.
