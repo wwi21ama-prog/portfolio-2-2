@@ -2,7 +2,7 @@
 
 ## Aufgabenstellung
 
-Die Aufgabe ist, ein Programm zu entwickeln, das die Beispieldaten und weitere,
+Die Aufgabe ist, ein Java-Programm zu entwickeln, das die Beispieldaten und weitere,
 ähnliche, Daten verabeiten und strukturiert anzeigen kann.
 Außerdem soll eine Dokumentation erstellt werden.
 Präzisere Angaben dazu gibt es [hier](AUFGABEN.md).

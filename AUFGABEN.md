@@ -2,7 +2,7 @@
 
 ## Basisaufgaben (Mindestanforderung)
 
-Entwickeln Sie ein Programm, das folgendes leistet
+Entwickeln Sie ein Java-Programm, das folgendes leistet
 
 * Ausgehend von einer Startseite eine Liste aller Seiten erzeugen,
   die von dort aus erreichbar sind.
