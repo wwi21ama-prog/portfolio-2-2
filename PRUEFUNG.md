@@ -12,7 +12,7 @@ Präzisere Angaben dazu gibt es [hier](AUFGABEN.md).
 ### Termine
 
 * Beginn der Bearbeitungszeit: 27.07.2022
-* Ende der Bearbeitungszeit: 24.08.2022
+* Ende der Bearbeitungszeit: 01.09.2022
 
 ### Abstimmungstermin
 
