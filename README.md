@@ -51,4 +51,4 @@ Beispiele:
 
 ## Beispielprojekte
 
-Im Ordner [Beispiele](Beispiele/README.md) sind verschiedene Projekte vorgegeben, die das Datenformat demonstieren sollen.
+Im Ordner [Beispiele](beispiele/README.md) sind verschiedene Projekte vorgegeben, die das Datenformat demonstieren sollen.
