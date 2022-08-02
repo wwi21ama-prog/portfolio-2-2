@@ -4,7 +4,7 @@
 
 Entwickeln Sie ein Java-Programm, das folgendes leistet
 
-* Ausgehend von einer Startseite eine Liste aller Seiten erzeugen,
+* Ausgehend von einer Startseite (bspw. die `moebelbau.md` im Beispiel `bastelprojekt_teilprojekte`) eine Liste aller Seiten erzeugen,
   die von dort aus erreichbar sind.
 * Eine Liste aller Aufgaben erstellen, die auf diesen Seiten stehen.
 * Ausgabe dieser Aufgaben auf der Konsole.
