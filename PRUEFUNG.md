@@ -22,7 +22,7 @@ Das Bestehen dieses Termins ist Voraussetzung für die Zulassung zur Prüfung.
 
 ### Abgabe
 
-Die Abgabe erfolgt spätestens am 24.08.2022 um 23:59 Uhr (MESZ) über Moodle.
+Die Abgabe erfolgt spätestens am 01.09.2022 um 23:59 Uhr (MESZ) über Moodle.
 Abzugeben ist eine ZIP-Datei mit dem ausführbaren Quellcode und der Dokumentation (PDF).
 
 ## Bewertungskriterien
