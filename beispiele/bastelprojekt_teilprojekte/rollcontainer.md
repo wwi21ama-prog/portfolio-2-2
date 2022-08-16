@@ -3,7 +3,7 @@
 ## Bau des Containers
 #bau-aufgaben
 
-* [ ] Holzteile zusägen
+* [ ] Holzteile zusägen
 * [ ] Container bauen
 * [ ] Schubladen bauen
 * [ ] Rollen unter Container schrauben
